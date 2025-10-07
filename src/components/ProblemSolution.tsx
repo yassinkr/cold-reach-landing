@@ -1,6 +1,7 @@
 "use client";
 import { motion } from 'motion/react';
 import { X, Check, Contact, History, Tag, Smartphone } from 'lucide-react';
+/* eslint-disable react/no-unescaped-entities */
 
 const problems = [
   {
