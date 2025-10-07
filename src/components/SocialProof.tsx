@@ -1,6 +1,7 @@
 "use client";
 import { motion } from 'motion/react';
 import { Star, Quote } from 'lucide-react';
+/* eslint-disable react/no-unescaped-entities */
 
 const testimonials = [
   {
